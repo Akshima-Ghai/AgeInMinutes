@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0278ae</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="background">#cffffe</color>
+    <color name="textCalculate">#f56a79</color>
+    <color name="ageText">#ff414d</color>
+    <color name="txtSelectedDate">#c26565</color>
+</resources>
